@@ -1,23 +1,98 @@
-<h1 align="center">Hi 👋, I'm Gb el Salvador</h1>
-<h3 align="center">A passionate backend developer from DRC</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbelsalvador&label=Profile%20views&color=0e75b6&style=flat" alt="gbelsalvador" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gbelsalvador" alt="gbelsalvador" /></a> </p>
-
-- 📫 How to reach me **gbelsalvador6@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gédéon banyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gédéon banyi" height="30" width="40" /></a>
-<a href="https://fb.com/gb el salvador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gb el salvador" height="30" width="40" /></a>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=200&section=header&text=Gbelsalvador%20Dev%20Profile&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- INTRO ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Backend+Developer;AI+Engineer;FastAPI+%7C+Django+%7C+Python;LLMs+%7C+RAG+%7C+Computer+Vision;Building+scalable+AI+systems"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbelsalvador&show_icons=true&locale=en&layout=compact" alt="gbelsalvador" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gbelsalvador&show_icons=true&locale=en" alt="gbelsalvador" /></p>
+# 👋 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gbelsalvador&" alt="gbelsalvador" /></p>
+💻 Backend Developer specializing in scalable APIs & AI systems  
+🤖 Building LLM-powered applications (RAG, NLP, Speech AI)  
+🌍 Focused on real-world AI solutions (including African languages)  
+⚙️ Strong backend engineering mindset (FastAPI / Django / PHP)  
+🚀 Passionate about system design, performance & clean architecture  
+
+---
+
+# 🧠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,php,laravel,js,ts,postgres,mysql,mongodb,docker,git,linux,github,vscode" />
+
+</p>
+
+### 🤖 AI / Data Science
+PyTorch • TensorFlow • Scikit-Learn • OpenCV • Hugging Face • LangChain • NumPy • Pandas
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gbelsalvador&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbelsalvador&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gbelsalvador&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gbelsalvador&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gbelsalvador&theme=onestar&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 KOTA AI
+AI platform for African languages using LLMs, RAG, Speech-to-Text and NLP pipelines.
+
+### ⚡ FastAPI Boilerplate
+Production-ready backend architecture for scalable APIs.
+
+### 🧠 ML Research
+Deep Learning, Computer Vision & NLP experiments.
+
+---
+
+# 🧭 Current Focus
+
+```bash
+- Large Language Models (LLMs)
+- AI Agents & RAG Systems
+- MLOps & Deployment
+- System Design
+- Microservices Architecture
+```
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/YOUR_LINK"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:gbelsalvador6@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+👀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Gbelsalvador&style=for-the-badge&color=blue"/> </p>
+<p align="center"> <b>⚡ "Build. Break. Learn. Repeat." ⚡</b> </p> ```
