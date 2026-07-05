@@ -24,7 +24,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,php,laravel,js,ts,postgres,mysql,mongodb,docker,git,linux,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,pytorch,php,laravel,tensorflow,sql,postgres,mysql,mongodb,docker,git,linux,github,vscode" />
 
 </p>
 
