@@ -36,21 +36,21 @@ I'm **Gédéon Banyi**, a PHP & Python backend developer and data scientist base
 
 My work sits at the intersection of **clean backend engineering** and **applied AI** — from predicting malaria outbreaks with computer vision, to using reinforcement learning to ease traffic congestion in Kinshasa's streets.
 
-- 🧠 Data Science & Machine Learning for real-world impact (health, mobility, language)
-- ⚙️ Backend engineering with strong architecture discipline (MVC, PHP, FastAPI, Django)
-- 🔌 Embedded systems & electronics as a passion project
-- 🌍 Focused on solutions relevant to Africa: local languages, local infrastructure, local challenges
-- 🚀 Currently exploring LLMs, AI agents & RAG systems
+- [ + ] Data Science & Machine Learning for real-world impact (health, mobility, language)
+- [ + ] Backend engineering with strong architecture discipline (MVC, PHP, FastAPI, Django)
+- [ + ] Embedded systems & electronics as a passion project
+- [ + ] Focused on solutions relevant to Africa: local languages, local infrastructure, local challenges
+- [ + ] Currently exploring LLMs, AI agents & RAG systems
 
 ---
 
 ## 🚀 Currently Building
 
-- 🦟 **malaria-IA** — computer vision model for malaria prediction, served as a Flask web app
-- 🚦 **kinshasa-traffic-rl / sumo_ia_roulage** — reinforcement learning for adaptive traffic-light control
-- 💞 **ValentineAI** — an emotionally-aware AI companion
-- 🧩 **archictecture-MVC-libraries** — my reusable PHP MVC architecture
-- 🔄 **data-transformer** — a PHP library for converting data between formats
+-  **malaria-IA** — computer vision model for malaria prediction, served as a Flask web app
+-  **kinshasa-traffic-rl / sumo_ia_roulage** — reinforcement learning for adaptive traffic-light control
+-  **ValentineAI** — an emotionally-aware AI companion
+-  **archictecture-MVC-libraries** — my reusable PHP MVC architecture
+-  **data-transformer** — a PHP library for converting data between formats
 
 ---
 
@@ -87,7 +87,6 @@ VS Code • Docker • Postman • Git • Linux • Jupyter • Notion
 <img height="180em" src="./profile/top-langs.svg" alt="Top Langs"/>
 </p>
 
-> ⚙️ *Ces deux cartes sont générées automatiquement chaque jour par GitHub Actions et stockées dans ce repo (`/profile/`) — elles ne dépendent plus du serveur public vercel.app et ne peuvent donc plus casser.*
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Gbelsalvador&theme=tokyonight&hide_border=true"/>
@@ -107,14 +106,13 @@ VS Code • Docker • Postman • Git • Linux • Jupyter • Notion
 
 | Projet | Description | Stack |
 |---|---|---|
-| 🦟 [**malaria-IA**](https://github.com/Gbelsalvador/malaria-IA) | Modèle de vision par ordinateur pour la prédiction du paludisme, exposé via une app Flask | Python • Flask • CV |
-| 🚦 [**kinshasa-traffic-rl**](https://github.com/Gbelsalvador/kinshasa-traffic-rl) | Contrôle adaptatif des feux de circulation par apprentissage par renforcement | Python • RL |
-| 🚗 [**sumo_ia_roulage**](https://github.com/Gbelsalvador/sumo_ia_roulage) | Simulation de trafic urbain avec SUMO couplée à de l'IA | Python • SUMO |
-| 💞 [**ValentineAI**](https://github.com/Gbelsalvador/ValentineAI) | Compagnon IA à intelligence émotionnelle | Python • NLP |
-| 🧩 [**archictecture-MVC-libraries**](https://github.com/Gbelsalvador/archictecture-MVC-libraries) | Architecture MVC réutilisable en PHP | PHP |
-| 🔄 [**data-transformer**](https://github.com/Gbelsalvador/data-transformer) | Librairie PHP de conversion de données entre formats | PHP |
+|  [**malaria-IA**](https://github.com/Gbelsalvador/malaria-IA) | Modèle de vision par ordinateur pour la prédiction du paludisme, exposé via une app Flask | Python • Flask • CV |
+|  [**kinshasa-traffic-rl**](https://github.com/Gbelsalvador/kinshasa-traffic-rl) | Contrôle adaptatif des feux de circulation par apprentissage par renforcement | Python • RL |
+|  [**sumo_ia_roulage**](https://github.com/Gbelsalvador/sumo_ia_roulage) | Simulation de trafic urbain avec SUMO couplée à de l'IA | Python • SUMO |
+|  [**ValentineAI**](https://github.com/Gbelsalvador/ValentineAI) | Compagnon IA à intelligence émotionnelle | Python • NLP |
+|  [**archictecture-MVC-libraries**](https://github.com/Gbelsalvador/archictecture-MVC-libraries) | Architecture MVC réutilisable en PHP | PHP |
+|  [**data-transformer**](https://github.com/Gbelsalvador/data-transformer) | Librairie PHP de conversion de données entre formats | PHP |
 
-> 💡 *Table markdown utilisée ici plutôt que des cartes générées par API externe (github-readme-stats), ce service public étant actuellement instable/rate-limité et affichant souvent des images cassées.*
 
 ---
 
