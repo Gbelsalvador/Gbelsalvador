@@ -83,9 +83,11 @@ VS Code • Docker • Postman • Git • Linux • Jupyter • Notion
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gbelsalvador&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbelsalvador&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="./profile/stats.svg" alt="GitHub Stats"/>
+<img height="180em" src="./profile/top-langs.svg" alt="Top Langs"/>
 </p>
+
+> ⚙️ *Ces deux cartes sont générées automatiquement chaque jour par GitHub Actions et stockées dans ce repo (`/profile/`) — elles ne dépendent plus du serveur public vercel.app et ne peuvent donc plus casser.*
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Gbelsalvador&theme=tokyonight&hide_border=true"/>
@@ -103,30 +105,16 @@ VS Code • Docker • Postman • Git • Linux • Jupyter • Notion
 
 ## 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Gbelsalvador/malaria-IA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gbelsalvador&repo=malaria-IA&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Gbelsalvador/kinshasa-traffic-rl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gbelsalvador&repo=kinshasa-traffic-rl&theme=tokyonight" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Gbelsalvador/sumo_ia_roulage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gbelsalvador&repo=sumo_ia_roulage&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Gbelsalvador/ValentineAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gbelsalvador&repo=ValentineAI&theme=tokyonight" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Gbelsalvador/archictecture-MVC-libraries">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gbelsalvador&repo=archictecture-MVC-libraries&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Gbelsalvador/data-transformer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gbelsalvador&repo=data-transformer&theme=tokyonight" />
-  </a>
-</p>
+| Projet | Description | Stack |
+|---|---|---|
+| 🦟 [**malaria-IA**](https://github.com/Gbelsalvador/malaria-IA) | Modèle de vision par ordinateur pour la prédiction du paludisme, exposé via une app Flask | Python • Flask • CV |
+| 🚦 [**kinshasa-traffic-rl**](https://github.com/Gbelsalvador/kinshasa-traffic-rl) | Contrôle adaptatif des feux de circulation par apprentissage par renforcement | Python • RL |
+| 🚗 [**sumo_ia_roulage**](https://github.com/Gbelsalvador/sumo_ia_roulage) | Simulation de trafic urbain avec SUMO couplée à de l'IA | Python • SUMO |
+| 💞 [**ValentineAI**](https://github.com/Gbelsalvador/ValentineAI) | Compagnon IA à intelligence émotionnelle | Python • NLP |
+| 🧩 [**archictecture-MVC-libraries**](https://github.com/Gbelsalvador/archictecture-MVC-libraries) | Architecture MVC réutilisable en PHP | PHP |
+| 🔄 [**data-transformer**](https://github.com/Gbelsalvador/data-transformer) | Librairie PHP de conversion de données entre formats | PHP |
+
+> 💡 *Table markdown utilisée ici plutôt que des cartes générées par API externe (github-readme-stats), ce service public étant actuellement instable/rate-limité et affichant souvent des images cassées.*
 
 ---
 
