@@ -62,7 +62,7 @@ My work sits at the intersection of **clean backend engineering** and **applied 
 
 **AI / Data Science:** PyTorch • TensorFlow • Scikit-Learn • OpenCV • Hugging Face • LangChain • NumPy • Pandas
 **Backend:** PHP (MVC) • Laravel • FastAPI • Django • REST APIs
-**Embedded & Electronics:** Arduino • C/C++ • Sensors & microcontrollers
+**Embedded & Electronics:** Arduino • C/C++ • Sensors & microcontrollers • tinyML
 
 ### 🛠 Daily Tools
 VS Code • Docker • Postman • Git • Linux • Jupyter • Notion
@@ -106,10 +106,10 @@ VS Code • Docker • Postman • Git • Linux • Jupyter • Notion
 
 | Projet | Description | Stack |
 |---|---|---|
-|  [**malaria-IA**](https://github.com/Gbelsalvador/malaria-IA) | Modèle de vision par ordinateur pour la prédiction du paludisme, exposé via une app Flask | Python • Flask • CV |
-|  [**kinshasa-traffic-rl**](https://github.com/Gbelsalvador/kinshasa-traffic-rl) | Contrôle adaptatif des feux de circulation par apprentissage par renforcement | Python • RL |
+|  [**malaria-IA**](https://github.com/Gbelsalvador/malaria-IA) | Modèle de vision par ordinateur pour la prédiction du paludisme, exposé via une app Flask | Python • Flask |
+|  [**kinshasa-traffic-rl**](https://github.com/Gbelsalvador/kinshasa-traffic-rl) | Contrôle adaptatif des feux de circulation par apprentissage par renforcement | Python • RL • SUMO|
 |  [**sumo_ia_roulage**](https://github.com/Gbelsalvador/sumo_ia_roulage) | Simulation de trafic urbain avec SUMO couplée à de l'IA | Python • SUMO |
-|  [**ValentineAI**](https://github.com/Gbelsalvador/ValentineAI) | Compagnon IA à intelligence émotionnelle | Python • NLP |
+|  [**ValentineAI**](https://github.com/Gbelsalvador/ValentineAI) | Compagnon IA à intelligence émotionnelle | Python • PYGAME • NLP |
 |  [**archictecture-MVC-libraries**](https://github.com/Gbelsalvador/archictecture-MVC-libraries) | Architecture MVC réutilisable en PHP | PHP |
 |  [**data-transformer**](https://github.com/Gbelsalvador/data-transformer) | Librairie PHP de conversion de données entre formats | PHP |
 
